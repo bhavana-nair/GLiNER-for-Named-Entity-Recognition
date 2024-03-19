@@ -10,3 +10,7 @@ GLiNER Hugging Face models: https://huggingface.co/urchade/gliner_base
 
 GLiNER SpaCy Wrapper: https://pypi.org/project/gliner-spacy/0.0.2/
 
+PROJECT DETAILS
+
+The project takes in a long text as the base corpus on which the NER task is performed. The task is to identify skills, technologies and programing language from a job dcription posted online.
+
